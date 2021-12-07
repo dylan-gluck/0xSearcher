@@ -1,0 +1,25 @@
+{
+  "name": "0xsearcher",
+  "version": "0.0.1",
+  "description": "Extremely simple arbitrage searcher using 0x API. An experiment in fetching and parsing simple price data in real time.",
+  "keywords": [
+    "0x",
+    "Ethers",
+    "Axios",
+    "QueryString",
+    "Arbitrage"
+  ],
+  "author": "Dylan Navajas Gluck <dylan.n.gluck@gmail.com> (https://github.com/dylan-gluck)",
+  "license": "Artistic-2.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ethers": "^5.5.1",
+    "graphql": "^15.7.2",
+    "qs": "^6.10.1"
+  }
+}
