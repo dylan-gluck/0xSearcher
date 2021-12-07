@@ -12,15 +12,14 @@ $ npm run dev
 
 Example Output:
 
-````...
+```
 Fetching Arb: WETH / AGLD
 Profit Found!
 Token0: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
 Token1: 0x32353a6c91143bfd6c7d363b546e62a9a2489a20
 Profit in ETH: 0.003956828368108703
 Estimated Gas: 237000
-...```
-````
+```
 
 ## TODO:
 
